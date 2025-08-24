@@ -71,5 +71,5 @@ This project was built as a **group capstone project** to showcase skills in:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/ridham-uppal/Job_Portal.git
+   git clone https://github.com/ridham-uppal/JOB-PORTAL
    cd job-portal
