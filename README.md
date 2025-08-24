@@ -51,10 +51,10 @@ This project was built as a **group capstone project** to showcase skills in:
 ---
 
 ## 📸 Screenshots  
- 
-<img width="1470" height="838" alt="image" src="https://github.com/user-attachments/assets/7107a843-b070-4091-a980-d3cfec5657ec" />
-<img width="1470" height="831" alt="image" src="https://github.com/user-attachments/assets/d8f12a89-f470-4c87-a997-159810b837b3" />
-<img width="1470" height="836" alt="image" src="https://github.com/user-attachments/assets/76cf2ed0-f59b-4fbc-bae0-26cf4b79c58f" />
+ <img width="1470" height="834" alt="image" src="https://github.com/user-attachments/assets/ba92b9d7-69f9-4bd2-97f4-3abcbf182f37" />
+<img width="1470" height="835" alt="image" src="https://github.com/user-attachments/assets/3dccc5f3-4c67-4b82-9eb9-4959fff08bc1" />
+<img width="1470" height="824" alt="image" src="https://github.com/user-attachments/assets/c9b87835-e184-4cd4-a275-283e80ec3314" />
+
 
 
 
